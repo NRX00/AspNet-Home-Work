@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Kitap_modeli.props" />
+</Project>
